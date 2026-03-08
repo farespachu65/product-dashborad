@@ -31,7 +31,7 @@ A responsive product dashboard that fetches data from the [Fake Store API](https
    npm run dev
    ```
 
-3. Open the URL shown in the terminal (e.g. `http://localhost:5173`) in your browser.
+3. Open the URL shown in the terminal (e.g. `http://localhost:5180`) in your browser.
 
 ## Build for Production
 
